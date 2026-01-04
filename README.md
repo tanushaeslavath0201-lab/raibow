@@ -1,2 +1,2 @@
-# raibow
+# rainbow
 rainbow has seven colours 
